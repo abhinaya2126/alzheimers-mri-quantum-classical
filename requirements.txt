@@ -1,0 +1,15 @@
+# Core notebook dependencies
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+jupyter
+notebook
+
+# Deep learning
+torch==2.11.0
+torchvision
+
+# Differentiable quantum circuit
+PennyLane==0.45.1
